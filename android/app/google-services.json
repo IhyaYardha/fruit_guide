@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176664301541",
+    "firebase_url": "https://fruit-guide-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fruit-guide",
+    "storage_bucket": "fruit-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176664301541:android:a45a2f8be2126ecb67290c",
+        "android_client_info": {
+          "package_name": "com.example.fruit_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176664301541-mpn52ac4gf213irf6ssvide3tc5v46ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7H0IexXqb7EWvWZ_armUtRlI7KchYD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176664301541-mpn52ac4gf213irf6ssvide3tc5v46ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
